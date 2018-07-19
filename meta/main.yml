@@ -1,0 +1,15 @@
+---
+
+galaxy_info:
+  author: Stephen Gurnick
+  description: Ansible role to install the UCLA Library's local repository
+  license: BSD 3-Clause
+  min_ansible_version: 1.9
+  platforms:
+  - name: EL
+    versions:
+    - 6
+    - 7
+  categories:
+  - system
+dependencies: []
