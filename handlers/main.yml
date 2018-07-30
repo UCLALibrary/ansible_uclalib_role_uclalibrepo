@@ -1,7 +1,0 @@
----
-
-- name: update yum cache
-  command: >
-    /bin/yum makecache
-  args:
-    warn: no
