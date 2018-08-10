@@ -1,10 +1,12 @@
 ---
 
+dependencies: []
+
 galaxy_info:
-  author: Stephen Gurnick
+  author: Stephen Gurnick - https://github.com/sgurnick
   description: Ansible role to install the UCLA Library's local repository
-  license: BSD 3-Clause
-  min_ansible_version: 1.9
+  license: reference LICENSE file
+  min_ansible_version: 2.4
   platforms:
   - name: EL
     versions:
@@ -12,4 +14,3 @@ galaxy_info:
     - 7
   categories:
   - system
-dependencies: []
